@@ -7,4 +7,7 @@ lunch linex server[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D1.lunch 
 7.configaration
      git config --global user.name
      git config -- global user.emai[A" "[B[D[D[D".com"
-8.create a file (touch file1)
+8.create a file (touch file1
+  git branch list of brachs in it
+  git checkout branch name -- switch to branch
+  )
