@@ -11,3 +11,6 @@ lunch linex server[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D1.lunch 
   git branch list of brachs in it
   git checkout branch name -- switch to branch
   )
+  suraj not invoited me for him marrage .
+  naidu gave the invitation.
+
