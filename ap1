@@ -4,3 +4,5 @@ about git diff
 stash is working fine
 git merg 1
 git merg 2
+git merge 3
+git merge 4
